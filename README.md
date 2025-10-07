@@ -2,7 +2,7 @@ Farmer Insurance Assistant
 
 An AI-powered platform designed to help farmers easily claim insurance, track claim status, and discover the best insurance schemes (government and private). The system leverages OCR technology to auto-fill forms from uploaded insurance documents and uses AI-based recommendations to guide farmers in selecting the most suitable insurance schemes based on crop conditions and other details.
 
-🚀 Features
+Features
 
 📄 OCR-based Auto-fill – Upload insurance documents, and the system will read and auto-fill the required details.
 
