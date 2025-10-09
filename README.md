@@ -84,4 +84,4 @@ npm run dev
 
 💰 Integration with payment gateways for premium payment
 
-🤝 Collaboration with banks & insurance providers
+
